@@ -26,6 +26,3 @@ Please refer to our [Code of Conduct](CODE_OF_CONDUCT.md), which applies to all 
 Special thanks are extended to:
 
 *   Our dedicated team
-*   Our loyal players
-
-We hope you enjoy TubeHome!
